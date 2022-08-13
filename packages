@@ -1,0 +1,17 @@
+passwd
+make
+ncurses
+glibc-langpack-en
+fish
+tmux
+git
+nodejs
+g++
+ctags
+python
+python3-pip
+thefuck
+fd-find
+bat
+direnv
+navi
